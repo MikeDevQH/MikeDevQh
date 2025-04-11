@@ -36,7 +36,7 @@
 
 > ⚡ Echa un vistazo a los proyectos pineados en mi perfil. Todos hechos con cariño y con ganas de seguir aprendiendo.
 
-_Si quieres ver alguno en detalle, están justo arriba en mi GitHub 👆_
+_Si quieres ver alguno en detalle, están justo abajo 👇_
 
 ---
 
