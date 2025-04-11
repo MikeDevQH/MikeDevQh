@@ -1,47 +1,67 @@
-<!-- README for GitHub Profile -->
+<h1 align="center">Hey 👋 Soy <span style="color:#38bdf8">MikeDevQh</span></h1>
 
-<h1 align="center">Hi there, I'm <span style="color:#6c63ff">MikeDevQh</span> 👋</h1>
-<p align="center">Desarrollador web apasionado por crear experiencias visuales con React, Next.js y un toque de magia azul/morado.</p>
-
----
-
-### 🧑‍💻 Sobre mí
-
-🎯 Desarrollador frontend enfocado en construir interfaces modernas, rápidas y funcionales.  
-🌐 He creado dashboards dinámicos usando APIs (clima, sistema) y una web de minijuegos.  
-🛠️ Me encanta trabajar con **React**, **Next.js**, **Tailwind CSS** y **TypeScript**, pero también domino **HTML**, **CSS**, **JavaScript** y **Python**.  
+<p align="center">
+  🧠 Apasionado por el código, aunque no me dedico a ello profesionalmente.<br/>
+  🛠️ Me encanta aprender, mejorar mis habilidades y construir cosas por diversión.<br/>
+  ✨ Siempre buscando ese "aha moment" mientras codeo.
+</p>
 
 ---
 
-### 🔧 Tecnologías favoritas
+### 🧰 Tech Stack & Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,js,html,css,python&perline=8" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,css,tailwind,python,html" alt="Tech Stack" />
+</p>
+
+- 🌀 **Frontend**: React, Next.js, TypeScript, TailwindCSS, CSS
+- 🐍 **Scripting**: Python
+- 🧱 **Diseño Web**: UI minimalista y responsiva
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikeDevQh&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
+</p>
 
-![MikeDevQh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeDevQh&show_icons=true&theme=transparent&hide_title=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDevQh&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MikeDevQh&theme=discord&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDevQh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-> 💬 *"Code is poetry, design is personality."*
+### 🧩 Proyectos destacados
 
+> ⚡ Echa un vistazo a los proyectos pineados en mi perfil. Todos hechos con cariño y con ganas de seguir aprendiendo.
+
+_Si quieres ver alguno en detalle, están justo arriba en mi GitHub 👆_
+
+---
+
+### 📍 Info Rápida
+
+| 🧾 Dato | 💬 Detalle |
+|--------|------------|
+| 🎯 Objetivo | Aprender creando |
+| 🧑‍💻 Estilo | Código limpio, diseño minimalista |
+| 🌱 Ahora aprendiendo | Más sobre animaciones, optimización y arquitectura web |
+| 🧠 Mentalidad | "Build → Break → Learn → Repeat" |
+
+---
+
+### 📫 Contacto
+
+- 🗨️ Discord: [MikeDevQh#0001](https://discord.com/users/925933412710232105)
+- 📧 Email: [michaelqhdez@gmail.com](mailto:michaelqhdez@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MikeDevQh&style=flat-square&color=38bdf8" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Codear por pasión es como jugar con superpoderes.”</i>
+</p>
